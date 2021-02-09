@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zarema_Calculator</string>
+    <string name="imageView_description">Формула</string>
+    <string name="editTextA_hint">a =</string>
+    <string name="editTextB_hint">b =</string>
+    <string name="editTextX_hint">x =</string>
+    <string name="textViewY_hint">y =</string>
+    <string name="textView_Answer_text">Ответ: </string>
+    <string name="textView_text">Пример</string>
+    <string name="button_solver_text">Решить</string>
+    <string name="button_clear_text">Очистить</string>
+</resources>

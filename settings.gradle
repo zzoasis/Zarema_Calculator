@@ -1,0 +1,3 @@
+include ':zarema_calculator'
+include ':app'
+rootProject.name = "Zarema_Android"
