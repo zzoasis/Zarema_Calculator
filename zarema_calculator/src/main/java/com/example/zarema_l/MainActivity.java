@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onSaveInstanceState(@NonNull Bundle outState) {
         super.onSaveInstanceState(outState);
 
-        // Сохранение нужных нам значений компонент при перевороте экрана
+        // Сохранение нужных  значений при перевороте экрана
         outState.putString("y", textViewY.getText().toString());
     }
 
